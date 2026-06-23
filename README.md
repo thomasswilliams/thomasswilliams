@@ -1,1 +1,1 @@
-__I'm Thomas Williams__, an experienced database administrator (DBA), analyst and software developer focused on solving problems using SQL Server, Vue, ASP.NET, Node.js, Reporting Services, and PowerShell.
+__I'm Thomas Williams__, an experienced database administrator (DBA), analyst, and software developer based in Hobart, Tasmania. For 25 years, I've coded and written about solving problems with data. I love R Markdown and am learning Python. I've coded in many SQL dialects, ASP, ASP.NET, Javascript, TypeScript, VBScript and more.
